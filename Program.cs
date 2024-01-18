@@ -47,7 +47,7 @@ grid2[1, 3] = "Doug"; // 添加数据
 grid2[2, 0] = "Aardvark"; // 添加数据
 grid2[2, 1] = "Bear"; // 添加数据
 grid2[2, 2] = "Cat"; // 添加数据
-grid2[2, 3] = "Dog"; // 添加数据
+grid2[2, 3] = "Dog";
 
 string[][] jagged = new[]
 {
