@@ -3,7 +3,6 @@ using static System.Console;
 Console.WriteLine("Hello, Jinle,Lin!");
 string dotnetVersion = Environment.Version.ToString();
 Console.WriteLine(".NET Version: " + dotnetVersion);
-
 string[] names = new string[4];
 names[0] = "Kate";
 names[1] = "Jack";
