@@ -1,11 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using static System.Console;    
 Console.WriteLine("Hello, Jinle,Lin!");
-//Make some modification to share
+
 string dotnetVersion = Environment.Version.ToString();
 Console.WriteLine(".NET Version: " + dotnetVersion);
 
-string[] names = new string[4]; // 修改为包含4个字符串的数组
+string[] names = new string[4];
 names[0] = "Kate";
 names[1] = "Jack";
 names[2] = "Rebecca";
