@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using static System.Console;    
 Console.WriteLine("Hello, Jinle,Lin!");
-
 string dotnetVersion = Environment.Version.ToString();
 Console.WriteLine(".NET Version: " + dotnetVersion);
 
