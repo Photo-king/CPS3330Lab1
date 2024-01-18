@@ -35,8 +35,8 @@ for (int row = 0; row <= grid1.GetUpperBound(0); row++)
     }
 }
 
-string[,] grid2 = new string[3, 4]; // 分配内存
-grid2[0, 0] = "Alpha"; // 分配字符串值
+string[,] grid2 = new string[3, 4]; 
+grid2[0, 0] = "Alpha"; 
 grid2[0, 1] = "Beta"; // 添加数据
 grid2[0, 2] = "Gamma"; // 添加数据
 grid2[0, 3] = "Delta"; // 添加数据
