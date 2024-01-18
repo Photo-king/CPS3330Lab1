@@ -9,7 +9,6 @@ names[0] = "Kate";
 names[1] = "Jack";
 names[2] = "Rebecca";
 names[3] = "Tom";
-
 string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
 
 for (int i = 0; i < names2.Length; i++)
