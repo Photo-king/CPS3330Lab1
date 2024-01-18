@@ -37,16 +37,16 @@ for (int row = 0; row <= grid1.GetUpperBound(0); row++)
 
 string[,] grid2 = new string[3, 4]; 
 grid2[0, 0] = "Alpha"; 
-grid2[0, 1] = "Beta"; // 添加数据
-grid2[0, 2] = "Gamma"; // 添加数据
-grid2[0, 3] = "Delta"; // 添加数据
-grid2[1, 0] = "Anne"; // 添加数据
-grid2[1, 1] = "Ben"; // 添加数据
-grid2[1, 2] = "Charlie"; // 添加数据
-grid2[1, 3] = "Doug"; // 添加数据
-grid2[2, 0] = "Aardvark"; // 添加数据
-grid2[2, 1] = "Bear"; // 添加数据
-grid2[2, 2] = "Cat"; // 添加数据
+grid2[0, 1] = "Beta";
+grid2[0, 2] = "Gamma";
+grid2[0, 3] = "Delta";
+grid2[1, 0] = "Anne";
+grid2[1, 1] = "Ben";
+grid2[1, 2] = "Charlie";
+grid2[1, 3] = "Doug";
+grid2[2, 0] = "Aardvark";
+grid2[2, 1] = "Bear";
+grid2[2, 2] = "Cat";
 grid2[2, 3] = "Dog";
 
 string[][] jagged = new[]
